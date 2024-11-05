@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gemini/static/css/main.5eb5464c.css",
+    "main.js": "/react-gemini/static/js/main.5f83c772.js",
+    "static/js/453.86f09fa0.chunk.js": "/react-gemini/static/js/453.86f09fa0.chunk.js",
+    "index.html": "/react-gemini/index.html",
+    "main.5eb5464c.css.map": "/react-gemini/static/css/main.5eb5464c.css.map",
+    "main.5f83c772.js.map": "/react-gemini/static/js/main.5f83c772.js.map",
+    "453.86f09fa0.chunk.js.map": "/react-gemini/static/js/453.86f09fa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eb5464c.css",
+    "static/js/main.5f83c772.js"
+  ]
+}
